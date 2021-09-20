@@ -17,7 +17,7 @@ from random import randint
 from datetime import date
 
 # Set working directory
-path = "C:/Users/Karna Malaviya/Desktop/OUD"
+path = "[configure]"
 os.chdir(path)
 
 # Define Location of Web Driver and Open It
