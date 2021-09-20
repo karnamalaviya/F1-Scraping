@@ -40,7 +40,6 @@ for x in range(1, race_number):
     
     # Store and Clean Results
     temp_fantasy = results.get_attribute('innerText')    
-    temp_fantasy = temp_fantasy.replace('(ver)stappen4nobody', 'verstappen4nobody').replace('karn on d kob(e bryan)', 'karn on d kobe bryan')
     temp_fantasy = temp_fantasy.replace('\n', '').replace('#', '\n').replace('(', ')').replace('  ', ' ').replace('COUNTRY', '').replace('POINTS', '').strip()
     temp_fantasy = temp_fantasy.split("\n")
     temp_fantasy = pd.DataFrame({'raw' : temp_fantasy})
