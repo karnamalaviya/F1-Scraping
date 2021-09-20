@@ -26,7 +26,6 @@ for t in range(1, number_of_teams):
     time.sleep(randint(1,5))
     temp_team_name = driver.find_element_by_xpath(team_xpath)
     temp_team_name = temp_team_name.get_attribute("innerText")
-    temp_team_name = temp_team_name.replace('(ver)stappen4nobody', 'verstappen4nobody').replace('karn on d kob(e bryan)', 'karn on d kobe bryan')
     team_name = temp_team_name.split('(', 1)[0] 
     team_name = re.sub('#[0-9][0-9] ', '', team_name)
     team_name = re.sub('#[0-9] ', '', team_name)
