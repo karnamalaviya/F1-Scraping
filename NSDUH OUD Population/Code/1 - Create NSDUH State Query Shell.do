@@ -1,14 +1,9 @@
 /*****************************************
-* DRAFT - PRIVILEGED AND CONFIDENTIAL 
-* Project:    6800
-* Analyst:    KM
+* Purpose:    Create Shell of Queries to Pull from NSDUH
 * Date:       4 May 2020
-* Purpose:    Create Use NBER TAXSIM Tool
-* Audited:    N
 *****************************************/
 
-cd "C:/Users/Karna Malaviya/Desktop/OUD/" 
-
+cd "[configure]" 
 
 *************************************** 
 *   Shell of States with NSDUH Data   *	
@@ -90,7 +85,7 @@ cd "C:/Users/Karna Malaviya/Desktop/OUD/"
 ******************************************
 	
 	
-	import delimited "Input\NSDUH Queries_v2.csv", clear varnames(1)
+	import delimited "Input\NSDUH Queries.csv", clear varnames(1)
 	
 	* 1 - Set Unique Identifier for Each Query
 	gen query_num = _n
