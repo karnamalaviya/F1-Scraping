@@ -1,5 +1,5 @@
 """
-CREATE LIST OF F1 RACE URLS TO SCRAPE FROM
+SCRAPE HISTORICAL F1 DATA
 
 @author: Karna Malaviya
 """
