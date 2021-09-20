@@ -31,19 +31,19 @@ number_of_choices = 5
 number_of_choices = number_of_choices + 1
 
 # Set working directory
-path = "C:/Users/Karna Malaviya/Desktop/f1/scrape"
+path = "[configure]"
 os.chdir(path)
 
 # Define location of web driver
-driver = webdriver.Chrome('C:/Users/Karna Malaviya/Desktop/f1/scrape/chromedriver.exe')  
+driver = webdriver.Chrome("[configure]")  
 driver.maximize_window()
 
 # Define Action Chains
 actions = ActionChains(driver)
 
 # Define credentials
-username = "karna.malaviya@gmail.com"
-password = "gimmejimmy"
+username = "[configure]"
+password = "[configure]"
 
 # Run Files
 # Log In
