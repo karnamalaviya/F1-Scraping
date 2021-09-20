@@ -1,13 +1,9 @@
 /*****************************************
-* DRAFT - PRIVILEGED AND CONFIDENTIAL 
-* Project:    6800
-* Analyst:    KM
+* Purpose:    Create State-Year OUD Output Dataset
 * Date:       4 May 2020
-* Purpose:    Create Use NBER TAXSIM Tool
-* Audited:    N
 *****************************************/
 
-cd "C:/Users/Karna Malaviya/Desktop/OUD/" 
+cd "[configure]" 
 
 
 ************************************************************
