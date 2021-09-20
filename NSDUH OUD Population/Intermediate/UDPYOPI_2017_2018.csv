@@ -1,0 +1,53 @@
+STNAME,UDPYOPI,year_start,year_end,wt_var,url
+TOTAL,"2,067,000",2017,2018,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2017-2018-RD02YR?column=UDPYOPI&filter=UDPYOPI%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+ALABAMA,"45,000",2017,2018,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2017-2018-RD02YR?column=UDPYOPI&filter=UDPYOPI%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+ALASKA,"4,000",2017,2018,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2017-2018-RD02YR?column=UDPYOPI&filter=UDPYOPI%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+ARIZONA,"51,000",2017,2018,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2017-2018-RD02YR?column=UDPYOPI&filter=UDPYOPI%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+ARKANSAS,"23,000",2017,2018,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2017-2018-RD02YR?column=UDPYOPI&filter=UDPYOPI%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+CALIFORNIA,"170,000",2017,2018,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2017-2018-RD02YR?column=UDPYOPI&filter=UDPYOPI%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+COLORADO,"39,000",2017,2018,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2017-2018-RD02YR?column=UDPYOPI&filter=UDPYOPI%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+CONNECTICUT,"20,000",2017,2018,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2017-2018-RD02YR?column=UDPYOPI&filter=UDPYOPI%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+DELAWARE,"13,000",2017,2018,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2017-2018-RD02YR?column=UDPYOPI&filter=UDPYOPI%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+DISTRICT OFCOLUMBIA,"6,000",2017,2018,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2017-2018-RD02YR?column=UDPYOPI&filter=UDPYOPI%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+FLORIDA,"193,000",2017,2018,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2017-2018-RD02YR?column=UDPYOPI&filter=UDPYOPI%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+GEORGIA,"44,000",2017,2018,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2017-2018-RD02YR?column=UDPYOPI&filter=UDPYOPI%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+HAWAII,"6,000",2017,2018,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2017-2018-RD02YR?column=UDPYOPI&filter=UDPYOPI%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+IDAHO,"18,000",2017,2018,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2017-2018-RD02YR?column=UDPYOPI&filter=UDPYOPI%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+ILLINOIS,"47,000",2017,2018,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2017-2018-RD02YR?column=UDPYOPI&filter=UDPYOPI%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+INDIANA,"51,000",2017,2018,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2017-2018-RD02YR?column=UDPYOPI&filter=UDPYOPI%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+IOWA,"21,000",2017,2018,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2017-2018-RD02YR?column=UDPYOPI&filter=UDPYOPI%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+KANSAS,"14,000",2017,2018,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2017-2018-RD02YR?column=UDPYOPI&filter=UDPYOPI%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+KENTUCKY,"55,000",2017,2018,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2017-2018-RD02YR?column=UDPYOPI&filter=UDPYOPI%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+LOUISIANA,"25,000",2017,2018,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2017-2018-RD02YR?column=UDPYOPI&filter=UDPYOPI%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+MAINE,"17,000",2017,2018,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2017-2018-RD02YR?column=UDPYOPI&filter=UDPYOPI%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+MARYLAND,"30,000",2017,2018,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2017-2018-RD02YR?column=UDPYOPI&filter=UDPYOPI%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+MASSACHUSETTS,"67,000",2017,2018,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2017-2018-RD02YR?column=UDPYOPI&filter=UDPYOPI%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+MICHIGAN,"52,000",2017,2018,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2017-2018-RD02YR?column=UDPYOPI&filter=UDPYOPI%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+MINNESOTA,"15,000",2017,2018,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2017-2018-RD02YR?column=UDPYOPI&filter=UDPYOPI%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+MISSISSIPPI,"21,000",2017,2018,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2017-2018-RD02YR?column=UDPYOPI&filter=UDPYOPI%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+MISSOURI,"38,000",2017,2018,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2017-2018-RD02YR?column=UDPYOPI&filter=UDPYOPI%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+MONTANA,"8,000",2017,2018,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2017-2018-RD02YR?column=UDPYOPI&filter=UDPYOPI%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+NEBRASKA,"8,000",2017,2018,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2017-2018-RD02YR?column=UDPYOPI&filter=UDPYOPI%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+NEVADA,"30,000",2017,2018,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2017-2018-RD02YR?column=UDPYOPI&filter=UDPYOPI%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+NEW HAMPSHIRE,"11,000",2017,2018,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2017-2018-RD02YR?column=UDPYOPI&filter=UDPYOPI%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+NEW JERSEY,"77,000",2017,2018,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2017-2018-RD02YR?column=UDPYOPI&filter=UDPYOPI%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+NEW MEXICO,"9,000",2017,2018,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2017-2018-RD02YR?column=UDPYOPI&filter=UDPYOPI%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+NEW YORK,"96,000",2017,2018,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2017-2018-RD02YR?column=UDPYOPI&filter=UDPYOPI%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+NORTH CAROLINA,"56,000",2017,2018,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2017-2018-RD02YR?column=UDPYOPI&filter=UDPYOPI%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+NORTH DAKOTA,"4,000",2017,2018,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2017-2018-RD02YR?column=UDPYOPI&filter=UDPYOPI%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+OHIO,"133,000",2017,2018,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2017-2018-RD02YR?column=UDPYOPI&filter=UDPYOPI%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+OKLAHOMA,"30,000",2017,2018,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2017-2018-RD02YR?column=UDPYOPI&filter=UDPYOPI%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+OREGON,"37,000",2017,2018,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2017-2018-RD02YR?column=UDPYOPI&filter=UDPYOPI%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+PENNSYLVANIA,"95,000",2017,2018,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2017-2018-RD02YR?column=UDPYOPI&filter=UDPYOPI%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+RHODE ISLAND,"6,000",2017,2018,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2017-2018-RD02YR?column=UDPYOPI&filter=UDPYOPI%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+SOUTH CAROLINA,"29,000",2017,2018,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2017-2018-RD02YR?column=UDPYOPI&filter=UDPYOPI%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+SOUTH DAKOTA,"6,000",2017,2018,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2017-2018-RD02YR?column=UDPYOPI&filter=UDPYOPI%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+TENNESSEE,"56,000",2017,2018,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2017-2018-RD02YR?column=UDPYOPI&filter=UDPYOPI%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+TEXAS,"87,000",2017,2018,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2017-2018-RD02YR?column=UDPYOPI&filter=UDPYOPI%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+UTAH,"16,000",2017,2018,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2017-2018-RD02YR?column=UDPYOPI&filter=UDPYOPI%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+VERMONT,"7,000",2017,2018,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2017-2018-RD02YR?column=UDPYOPI&filter=UDPYOPI%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+VIRGINIA,"64,000",2017,2018,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2017-2018-RD02YR?column=UDPYOPI&filter=UDPYOPI%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+WASHINGTON,"59,000",2017,2018,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2017-2018-RD02YR?column=UDPYOPI&filter=UDPYOPI%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+WEST VIRGINIA,"15,000",2017,2018,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2017-2018-RD02YR?column=UDPYOPI&filter=UDPYOPI%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+WISCONSIN,"39,000",2017,2018,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2017-2018-RD02YR?column=UDPYOPI&filter=UDPYOPI%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+WYOMING,"2,000",2017,2018,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2017-2018-RD02YR?column=UDPYOPI&filter=UDPYOPI%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1

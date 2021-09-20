@@ -1,7 +1,6 @@
-# F1 Scraping Project
+# Web Scraping Projects
 
-Code for scraping Formula 1 data from the web and presenting data in R Shiny Dashboard. 
-Includes code for:
-- Scraping Historical Race Data
-- Scraping Formula 1 Fantasy Game Results (outdated)
-- Presenting Formula 1 Data in a Shiny App with Plotly Graphics 
+Code for scraping data from the web, including:
+- Formula 1 Historical Race Data
+- Formula 1 Fantasy League Game Results (outdated)
+- State-Year Opioid Use Disorder Population from the National Survey of Drug Use and Health

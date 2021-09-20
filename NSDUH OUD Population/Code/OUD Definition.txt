@@ -1,0 +1,18 @@
+Definitions:
+
+"Substance use disorder is defined as dependence on or abuse of alcohol, illicit drugs (e.g., marijuana, cocaine,
+hallucinogens, heroin, or inhalants), or psychotherapeutics (e.g., prescription pain relievers, sedatives, tranquilizers,
+or stimulants) in the past 12 months based on assessments of individual diagnostic criteria from the fourth edition
+of the Diagnostic and Statistical Manual of Mental Disorders (DSM-IV), which include such symptoms as withdrawal,
+tolerance, use in dangerous situations, trouble with the law, and interference with major obligations at work, school,
+or home during the past year. For details, see American Psychiatric Association (1994)."
+
+"Opioid use disorder is defined as heroin use disorder or prescription pain reliever use disorder using
+diagnostic criteria specified within the fourth edition of the Diagnostic and Statistical Manual of Mental Disorders
+(DSM-IV), which include such symptoms as withdrawal, tolerance, use in dangerous situations, trouble with the law,
+and interference with major obligations at work, school, or home during the past year. For details, see American
+Psychiatric Association (1994)."
+
+See: https://www.samhsa.gov/data/sites/default/files/cbhsq-reports/National-BH-BarometerVolume5.pdf
+
+Queries Run On NSDUH RDAS 2-Year: https://rdas.samhsa.gov/#/ 

@@ -1,0 +1,53 @@
+STNAME,DEPNDANL,year_start,year_end,wt_var,url
+TOTAL,"1,044,000",2004,2005,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2004-2005-RD02YR?column=DEPNDANL&filter=DEPNDANL%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+ALABAMA,"23,000",2004,2005,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2004-2005-RD02YR?column=DEPNDANL&filter=DEPNDANL%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+ALASKA,"3,000",2004,2005,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2004-2005-RD02YR?column=DEPNDANL&filter=DEPNDANL%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+ARIZONA,"16,000",2004,2005,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2004-2005-RD02YR?column=DEPNDANL&filter=DEPNDANL%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+ARKANSAS,"14,000",2004,2005,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2004-2005-RD02YR?column=DEPNDANL&filter=DEPNDANL%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+CALIFORNIA,"88,000",2004,2005,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2004-2005-RD02YR?column=DEPNDANL&filter=DEPNDANL%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+COLORADO,"26,000",2004,2005,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2004-2005-RD02YR?column=DEPNDANL&filter=DEPNDANL%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+CONNECTICUT,"20,000",2004,2005,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2004-2005-RD02YR?column=DEPNDANL&filter=DEPNDANL%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+DELAWARE,"4,000",2004,2005,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2004-2005-RD02YR?column=DEPNDANL&filter=DEPNDANL%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+DISTRICT OFCOLUMBIA,"1,000",2004,2005,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2004-2005-RD02YR?column=DEPNDANL&filter=DEPNDANL%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+FLORIDA,"43,000",2004,2005,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2004-2005-RD02YR?column=DEPNDANL&filter=DEPNDANL%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+GEORGIA,"19,000",2004,2005,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2004-2005-RD02YR?column=DEPNDANL&filter=DEPNDANL%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+HAWAII,"2,000",2004,2005,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2004-2005-RD02YR?column=DEPNDANL&filter=DEPNDANL%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+IDAHO,"6,000",2004,2005,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2004-2005-RD02YR?column=DEPNDANL&filter=DEPNDANL%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+ILLINOIS,"24,000",2004,2005,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2004-2005-RD02YR?column=DEPNDANL&filter=DEPNDANL%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+INDIANA,"22,000",2004,2005,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2004-2005-RD02YR?column=DEPNDANL&filter=DEPNDANL%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+IOWA,"1,000",2004,2005,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2004-2005-RD02YR?column=DEPNDANL&filter=DEPNDANL%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+KANSAS,"10,000",2004,2005,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2004-2005-RD02YR?column=DEPNDANL&filter=DEPNDANL%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+KENTUCKY,"36,000",2004,2005,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2004-2005-RD02YR?column=DEPNDANL&filter=DEPNDANL%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+LOUISIANA,"51,000",2004,2005,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2004-2005-RD02YR?column=DEPNDANL&filter=DEPNDANL%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+MAINE,"6,000",2004,2005,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2004-2005-RD02YR?column=DEPNDANL&filter=DEPNDANL%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+MARYLAND,"23,000",2004,2005,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2004-2005-RD02YR?column=DEPNDANL&filter=DEPNDANL%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+MASSACHUSETTS,"42,000",2004,2005,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2004-2005-RD02YR?column=DEPNDANL&filter=DEPNDANL%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+MICHIGAN,"54,000",2004,2005,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2004-2005-RD02YR?column=DEPNDANL&filter=DEPNDANL%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+MINNESOTA,"5,000",2004,2005,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2004-2005-RD02YR?column=DEPNDANL&filter=DEPNDANL%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+MISSISSIPPI,"13,000",2004,2005,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2004-2005-RD02YR?column=DEPNDANL&filter=DEPNDANL%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+MISSOURI,"13,000",2004,2005,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2004-2005-RD02YR?column=DEPNDANL&filter=DEPNDANL%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+MONTANA,"2,000",2004,2005,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2004-2005-RD02YR?column=DEPNDANL&filter=DEPNDANL%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+NEBRASKA,"4,000",2004,2005,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2004-2005-RD02YR?column=DEPNDANL&filter=DEPNDANL%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+NEVADA,"9,000",2004,2005,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2004-2005-RD02YR?column=DEPNDANL&filter=DEPNDANL%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+NEW HAMPSHIRE,"5,000",2004,2005,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2004-2005-RD02YR?column=DEPNDANL&filter=DEPNDANL%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+NEW JERSEY,"15,000",2004,2005,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2004-2005-RD02YR?column=DEPNDANL&filter=DEPNDANL%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+NEW MEXICO,"13,000",2004,2005,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2004-2005-RD02YR?column=DEPNDANL&filter=DEPNDANL%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+NEW YORK,"65,000",2004,2005,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2004-2005-RD02YR?column=DEPNDANL&filter=DEPNDANL%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+NORTH CAROLINA,"27,000",2004,2005,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2004-2005-RD02YR?column=DEPNDANL&filter=DEPNDANL%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+NORTH DAKOTA,"1,000",2004,2005,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2004-2005-RD02YR?column=DEPNDANL&filter=DEPNDANL%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+OHIO,"56,000",2004,2005,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2004-2005-RD02YR?column=DEPNDANL&filter=DEPNDANL%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+OKLAHOMA,"22,000",2004,2005,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2004-2005-RD02YR?column=DEPNDANL&filter=DEPNDANL%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+OREGON,"14,000",2004,2005,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2004-2005-RD02YR?column=DEPNDANL&filter=DEPNDANL%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+PENNSYLVANIA,"48,000",2004,2005,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2004-2005-RD02YR?column=DEPNDANL&filter=DEPNDANL%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+RHODE ISLAND,"5,000",2004,2005,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2004-2005-RD02YR?column=DEPNDANL&filter=DEPNDANL%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+SOUTH CAROLINA,"19,000",2004,2005,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2004-2005-RD02YR?column=DEPNDANL&filter=DEPNDANL%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+SOUTH DAKOTA,"1,000",2004,2005,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2004-2005-RD02YR?column=DEPNDANL&filter=DEPNDANL%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+TENNESSEE,"18,000",2004,2005,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2004-2005-RD02YR?column=DEPNDANL&filter=DEPNDANL%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+TEXAS,"60,000",2004,2005,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2004-2005-RD02YR?column=DEPNDANL&filter=DEPNDANL%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+UTAH,"25,000",2004,2005,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2004-2005-RD02YR?column=DEPNDANL&filter=DEPNDANL%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+VERMONT,"3,000",2004,2005,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2004-2005-RD02YR?column=DEPNDANL&filter=DEPNDANL%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+VIRGINIA,"25,000",2004,2005,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2004-2005-RD02YR?column=DEPNDANL&filter=DEPNDANL%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+WASHINGTON,"17,000",2004,2005,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2004-2005-RD02YR?column=DEPNDANL&filter=DEPNDANL%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+WEST VIRGINIA,"10,000",2004,2005,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2004-2005-RD02YR?column=DEPNDANL&filter=DEPNDANL%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+WISCONSIN,"12,000",2004,2005,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2004-2005-RD02YR?column=DEPNDANL&filter=DEPNDANL%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
+WYOMING,"3,000",2004,2005,DASWT_1,https://rdas.samhsa.gov/#/survey/NSDUH-2004-2005-RD02YR?column=DEPNDANL&filter=DEPNDANL%3D1&results_received=FALSE&row=STNAME&run_chisq=FALSE&weight=DASWT_1
